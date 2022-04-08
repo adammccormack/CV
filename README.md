@@ -1,66 +1,149 @@
-## Name
+## Adam McCormack
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+| [Projects](#Projects) 
+<a name="Projects"></a> | 
+[Skills](#Skills) 
+<a name="Skills"></a> | 
+[Experience](#Experience) 
+<a name="Experience"></a> | 
+[Education](#Education) 
+<a name="Education"></a> | 
+[Hobbies](#Hobbies) 
+<a name="Hobbies"></a> | 
+[Contact](#Contact) 
+<a name="Contact"></a> |
+
+I am hugely passionate about developing professional, clean, tested and reusable code. I’ve recently completed Makers Academy’s intensive full-stack web developer course.
+
+My highest priority is to work in a supportive environment which embraces coding best practices that will strengthen and extend my knowledge, helping me reach my goal of becoming a professional programmer.
+ 
+I have ten years of work experience in non-tech front and back-office roles including as a freelance digital artist, and recently freelance web design and development, providing me with valuable soft and hard transferable skills.
+
+I am now even more excited by programming and its seemingly endless creative possibilities and aim to expand my full-stack and back-end development knowledge.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Maltx**            | University of Oxford PhD student app to help them automate processing of differing public government data  | Ruby, Rails, Rspec, Roo, Smarter_CSV, Codecov, Javascript, HTML/CSS, Bulma CSS, PostgreSQL, GCS, Git, Jira |
+| **Chatter** | Building a full-stack MVC version of Twitter to deepen my knowledge of building web apps. | Ruby, Rails, Rspec, Capybara, CodeCov, Byebug, Javascript, HTML/CSS, Bulma CSS, PostgreSQL              |
+| **shuttr** | A MERN photography app that helps users find the best locations in any city | MongoDB, Express, React, Node.js, HTML/CSS, APIs (Google Maps,Mapbook,React Map GL,Cloudinary,Unsplash), Material-Ui, Passport.js, BCrypt, Yarn |
+| **acebook** | A team project where we built a Facebook clone | Ruby, Rails, Rspec, Capybara, PostgreSQL, HTML/CSS, JavaScript |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### **Junior Software Developer** ###
+**University of Oxford PhD Client(Freelance)** - Nov 21 to Dec 21
 
-- Any experience relevent to software development
+- Worked in a small Agile team to develop a full-stack rails app for a University of Oxford PhD student automating their data entry involving differing publicly available government data.
+- Reduced disparate/differing datasets from many government sources into common sets/groups.
+- Developed frontend of application using active-admin gem.
+- Created service object layers for data ingestion with Ruby gems such as roo and smarter_csv for parsing and manipulating excel and csv data.
+- Created unit tests for critical application components in Rspec.
+- Use of byebug gem for debugging and proving code.
+- Story point estimation using Doubling method.
+- Regular standups, sprints and retrospectives.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+### **Web Designer** ###
+**Entertainment Intelligence(Freelance)** - Aug 21 to Nov 21 
+
+- Developed and re-designed client’s bespoke app user interface and user experience.
+- Collaborated in a small team and with client dev team to ensure requirements were met. 
+
+
+### **Admissions Officer** ###
+**St George's University London** - Feb 18 to Mar 21
+
+- Managed suite of university healthcare courses from onset to end of application cycle.
+- Developed professional customer service communicating with students/staff of all levels and consistently met deadlines.
+- Key achievements - Adapted to volatile market changes during Covid and ensured enrolment targets were met. Met application assessing deadlines over one month ahead of schedule, supported brand new course debut achieving 100% enrolment.
+
+
+### **Researcher** ###
+**Appear Here(Temp)** - Jan 18 to Feb 18
+
+-	Beat daily targets by 50% in leads qualified for potential clients. 
+
+
+### **Digital Artist** ###
+
+**Private Clients(Freelance)** - Jan 17 to Nov 17
+
+- Built freelance digital art business through advertising and marketing on websites such as Fiverr, Upwork, Artstation, and art forum job boards. 
+- Met tight deadlines and swiftly adapted to sudden or last-minute changes to clients' design brief. Took the initiative to offer design advice to aid clients in their decision-making and improve the final product. 
+- Planned carefully in order to improve efficiency and meet deadlines.
+
+
+### **Course Administrator** ###
+
+**University of Law** - Apr 14 to Jun 16
+
+-	Assisted National Programme Director in planning, implementation and operation of programme timetables. 
+-	Solved venue, resource, schedule and course issues as they arose. 
+-	Consulted/liaised with academic staff and law firm clients to ensure requirements were met. 
+
+
+### **Junior IT Recruitment Consultant** ###
+**Creative Personnel** - Jun 13 to Dec 13 
+
+-	Managed desk (prioritised daily tasks: urgent calls/emails, leads, follow-ups, BD).
+
+
+### **Digital Admin Assistant** ###
+**Hogarth Worldwide (Contract)** - Jan 13 to Feb 13  
+
+-	Cross-checked client media plan data for international advertising campaign and sent amendment comments to different regions.
+
+
+### **Social Media Planner / Researcher** ###
+**Link Up UK** - Feb 12 to Dec 12  
+
+-	Planned, implemented and supported launch of organisation’s social media campaign.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+### Analytical ###
 
-#### This Skill
+- Part of what drew me to programming was its analytical nature, it resonates with me as I have always innately been curious about how things work and sought to understand them at a deeper level. In my role at St George’s, I analysed many types of enrolment and course data to provide breakdown reports explaining the data.
 
-- Experience
-- Achievements
-- Evidence
+### Creative ###
 
-#### Another Skill
+- As a self-taught artist I have freelanced as a digital painter and also recently completed web design work for a client. When creating, one of my favourite stages is planning as it requires the most exploration and consideration of many different ideas/designs where I will try to tackle the problem from many different angles to ensure there are a wide variety of choices when deciding the final design. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Adaptable ###
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Through my ten years of previous work experience I had to adapt to working in a variety of industries, teams and with many different types of people, as a result I enjoy meeting and working with new people and can appreciate the importance of team dynamics. 
+In my experience at Makers Academy and in my freelance web development role, project specifications sometimes changed at quite late notice where you had to adapt and change your momentum and course swiftly in order to meet the new demands and targets. 
+
+### Persistent ###
+
+- During my time at Makers Academy, as part of a large group project I strived to implement an action cable messenger app on our Instagram inspired project, I worked many late nights until the stretch goal was met as I was determined to get the app working, no other team had this feature. 
+
+### Team-player ###
+
+- The majority of my prior work experience in a variety of sectors involved working in teams, as a result I have learned to work alongside many different types of people and appreciate building good team rapport. When there is harmony in a team it has a positive impact on performance and makes working more enjoyable in general. 
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy 2021
+***Full Stack Software Engineer***
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol 2011-12
+***MSc(Hons) International Relations***
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### City University London 2007-10
+***BSc(Hons) Business Studies(Commercial Aviation)***
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I like painting fantasy, sci-fi, comic, film, and video game related art.
+
+## Contact
+
+- [Github](https://github.com/alldigits/ "Github")
+- [Linkedin](https://www.linkedin.com/in/adam-mccormack-545b34157/ "Linkedin")
+- [Art Portfolio](https://www.instagram.com/adammccormack.art/?hl=en "Art Portfolio")
