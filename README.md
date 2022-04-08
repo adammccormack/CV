@@ -27,9 +27,9 @@ I am now even more excited by programming and its seemingly endless creative pos
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Maltx**(Private repo)   | University of Oxford PhD student app to help them automate processing of differing public government data  | Ruby, Rails, Rspec, Roo, Smarter_CSV, Codecov, Javascript, HTML/CSS, Bulma CSS, PostgreSQL, GCS, Git, Jira |
-| [Chatter](https://github.com/alldigits/chatter)  | Building a full-stack MVC version of Twitter to deepen my knowledge of building web apps. | Ruby, Rails, Rspec, Capybara, CodeCov, Byebug, Javascript, HTML/CSS, Bulma CSS, PostgreSQL              |
-| [**Shuttr**](https://github.com/tiffanyvallo/shuttr) | A MERN photography app that helps users find the best locations in any city | MongoDB, Express, React, Node.js, HTML/CSS, APIs (Google Maps,Mapbook,React Map GL,Cloudinary,Unsplash), Material-Ui, Passport.js, BCrypt, Yarn |
-| **Acebook** | A team project where we built a Facebook clone | Ruby, Rails, Rspec, Capybara, PostgreSQL, HTML/CSS, JavaScript |
+| [**Chatter**](https://github.com/alldigits/chatter)  | Building a full-stack MVC version of Twitter to deepen my knowledge of building web apps. | Ruby, Rails, Rspec, Capybara, CodeCov, Byebug, Javascript, HTML/CSS, Bulma CSS, PostgreSQL              |
+| [**Shuttr**](https://github.com/alldigits/shuttr) | A MERN photography app that helps users find the best locations in any city | MongoDB, Express, React, Node.js, HTML/CSS, APIs (Google Maps,Mapbook,React Map GL,Cloudinary,Unsplash), Material-Ui, Passport.js, BCrypt, Yarn |
+| [**Acebook**](https://github.com/alldigits/acebook-team-smiley-face) | A team project where we built a Facebook clone | Ruby, Rails, Rspec, Capybara, PostgreSQL, HTML/CSS, JavaScript |
 
 ## Experience
 
