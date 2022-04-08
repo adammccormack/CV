@@ -128,14 +128,14 @@ In my experience at Makers Academy and in my freelance web development role, pro
 
 ## Education
 
-#### Makers Academy 2021
-***Full Stack Software Engineer***
+#### Makers Academy - 2021
+Full Stack Software Engineer
 
-#### University of Bristol 2011-12
-***MSc(Hons) International Relations***
+#### University of Bristol - 2011-12
+MSc(Hons) International Relations
 
-#### City University London 2007-10
-***BSc(Hons) Business Studies(Commercial Aviation)***
+#### City University London - 2007-10
+BSc(Hons) Business Studies(Commercial Aviation)
 
 
 ## Hobbies
