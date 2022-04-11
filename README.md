@@ -131,6 +131,9 @@ In my experience at Makers Academy and in my freelance web development role, pro
 #### Makers Academy - 2021
 Full Stack Software Engineer
 
+#### Learn Squared - 2016
+Digital Art / Concept Art
+
 #### University of Bristol - 2010-11
 MSc(Hons) International Relations
 
