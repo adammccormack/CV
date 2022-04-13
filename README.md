@@ -139,7 +139,7 @@ Digital Art / Concept Art
 MSc(Hons) International Relations
 
 #### City University London - 2007-10
-BSc(Hons) Business Studies(Commercial Aviation)
+BSc(Hons) Business Studies (Commercial Aviation)
 
 
 ## Hobbies
