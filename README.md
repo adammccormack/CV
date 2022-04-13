@@ -50,7 +50,7 @@ I am now even more excited by programming and its seemingly endless creative pos
 **Entertainment Intelligence(Freelance)** - Aug 21 to Nov 21 
 
 - Developed and re-designed client’s bespoke app user interface and user experience.
-- Collaborated in a small team and with client dev team to ensure requirements were met. 
+- Collaborated in a small team and with the client, and dev team to ensure requirements were met. 
 
 
 ### **Admissions Officer** ###
