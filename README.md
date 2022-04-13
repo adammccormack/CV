@@ -33,7 +33,7 @@ I am now even more excited by programming and its seemingly endless creative pos
 
 ## Experience
 
-### **Full Stack Junior Software Engineer** ###
+### **Junior Full Stack Software Engineer** ###
 **University of Oxford PhD Client(Freelance)** - Nov 21 to Dec 21
 
 - Worked in a small Agile team to develop a full-stack rails app for a University of Oxford PhD student automating their data entry involving differing publicly available government data.
