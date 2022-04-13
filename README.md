@@ -72,7 +72,8 @@ I am now even more excited by programming and its seemingly endless creative pos
 **Private Clients(Freelance)** - Jan 17 to Nov 17
 
 - Built freelance digital art business through advertising and marketing on websites such as Fiverr, Upwork, Artstation, and art forum job boards. 
-- Met tight deadlines and swiftly adapted to sudden or last-minute changes to clients' design brief. Took the initiative to offer design advice to aid clients in their decision-making and improve the final product. 
+- Met tight deadlines and swiftly adapted to sudden or last-minute changes to clients' design brief. 
+- Took the initiative to offer design advice to aid clients in their decision-making and improve the final product. 
 - Planned carefully in order to improve efficiency and meet deadlines.
 
 
