@@ -34,7 +34,7 @@ I am now even more excited by programming and its seemingly endless creative pos
 ## Experience
 
 ### **Junior Full Stack Software Engineer** ###
-**University of Oxford PhD Client(Freelance)** - Nov 21 to Dec 21
+**University of Oxford PhD Client (Freelance)** - Nov 21 to Dec 21
 
 - Worked in a small Agile team to develop a full-stack rails app for a University of Oxford PhD student automating their data entry involving differing publicly available government data.
 - Reduced disparate/differing datasets from many government sources into common sets/groups.
@@ -47,7 +47,7 @@ I am now even more excited by programming and its seemingly endless creative pos
 
 
 ### **Web Designer** ###
-**Entertainment Intelligence(Freelance)** - Aug 21 to Nov 21 
+**Entertainment Intelligence (Freelance)** - Aug 21 to Nov 21 
 
 - Developed and re-designed client’s bespoke app user interface and user experience.
 - Collaborated in a small team and with the client, and dev team to ensure requirements were met. 
@@ -62,7 +62,7 @@ I am now even more excited by programming and its seemingly endless creative pos
 
 
 ### **Researcher** ###
-**Appear Here(Temp)** - Jan 18 to Feb 18
+**Appear Here (Temp)** - Jan 18 to Feb 18
 
 -	Beat daily targets by 50% in leads qualified for potential clients. 
 
