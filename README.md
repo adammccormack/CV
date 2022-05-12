@@ -107,7 +107,7 @@ I am now even more excited by programming and its seemingly endless creative pos
 
 ### Analytical ###
 
-- Part of what drew me to programming was its analytical nature, it resonates with me as I have always innately been curious about how things work and sought to understand them at a deeper level. In my role at St George’s, I analysed many types of enrolment and course data to provide breakdown reports explaining the data.
+- Part of what drew me to programming was its analytical nature, it resonates with me as I have always innately been curious about how things work and sought to understand them at a deeper level. I think this is another reason why I love art and learned the fundamentals of illustration, colour theory and design because as an artist you have to learn how to analyse and breakdown and truly understand what you're looking it in order to understand the rules of the physical world around us (i.e. light and material), then once you learn these rules you can manipulate them and use them to create believable things from your imagingation.
 
 ### Creative ###
 
@@ -120,7 +120,7 @@ In my experience at Makers Academy and in my freelance web development role, pro
 
 ### Persistent ###
 
-- During my time at Makers Academy, as part of a large group project I strived to implement an action cable messenger app on our Instagram inspired project, I worked many late nights until the stretch goal was met as I was determined to get the app working, no other team had this feature. 
+- During my time at Makers Academy, as part of a large group project I strived to implement an action cable messenger app on our Instagram inspired project, I worked many late nights until the stretch goal was met as I was determined to get the app working, no other team had this feature which was a proud moment for me.
 
 ### Team-player ###
 
