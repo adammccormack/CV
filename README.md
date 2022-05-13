@@ -150,4 +150,4 @@ I like painting fantasy, sci-fi, comic, film, and video game related art.
 
 - [Github](https://github.com/alldigits/ "Github")
 - [Linkedin](https://www.linkedin.com/in/adam-mccormack-545b34157/ "Linkedin")
-- [Art Portfolio](https://www.instagram.com/adammccormack.art/?hl=en "Art Portfolio")
+- [Digital Art Portfolio](https://www.instagram.com/adammccormack.art/?hl=en "Art Portfolio")
