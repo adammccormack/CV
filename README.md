@@ -107,11 +107,11 @@ I am now even more excited by programming and its seemingly endless creative pos
 
 ### Analytical ###
 
-- Part of what drew me to programming was its analytical nature, it resonates with me as I have always innately been curious about how things work and sought to understand them at a deeper level. I think this is another reason why I love art and learned the fundamentals of illustration, colour theory and design because as an artist you have to learn how to analyse and breakdown and truly understand what you're looking it in order to understand the rules of the physical world around us (i.e. light and material), then once you learn these rules you can manipulate them and use them to create believable things from your imagingation.
+- Part of what drew me to programming was its analytical nature, it resonates with me as I have always innately been curious about how things work and sought to understand them at a deeper level. I think this is another reason why I love art and learned the fundamentals of illustration, colour theory and design because as an artist you have to learn how to analyse, breakdown and truly understand what you're looking at in order to understand the rules of the physical world around us (i.e. light and material), then once you learn these rules you can manipulate them and use them to create believable things from your imagingation.
 
 ### Creative ###
 
-- As a self-taught artist I have freelanced as a digital painter and also recently completed web design work for a client. When creating, one of my favourite stages is planning as it requires the most exploration and consideration of many different ideas/designs where I will try to tackle the problem from many different angles to ensure there are a wide variety of choices when deciding the final design. 
+- As a self-taught artist, I have freelanced as a digital painter and also recently completed web design work for a client. When creating, one of my favourite stages is planning as it requires the most exploration and consideration of many different ideas/designs where I will try to tackle the problem from many different angles to ensure there are a wide variety of choices when deciding the final design. 
 
 ### Adaptable ###
 
