@@ -144,10 +144,10 @@ BSc(Hons) Business Studies (Commercial Aviation)
 
 ## Hobbies
 
-I like painting fantasy, sci-fi, comic, film, and video game related art.
+I used to freelance as a digital artist, I like painting fantasy, sci-fi, comic, film, and video game related art.
+- [Digital Art Portfolio](https://www.instagram.com/adammccormack.art/?hl=en "Art Portfolio")
 
 ## Contact
 
 - [Github](https://github.com/alldigits/ "Github")
 - [Linkedin](https://www.linkedin.com/in/adam-mccormack-545b34157/ "Linkedin")
-- [Digital Art Portfolio](https://www.instagram.com/adammccormack.art/?hl=en "Art Portfolio")
