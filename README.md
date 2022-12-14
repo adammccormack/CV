@@ -13,13 +13,13 @@
 [Contact](#Contact) 
 <a name="Contact"></a> |
 
-I am hugely passionate about developing professional, clean, tested and reusable code. I’ve recently completed Makers Academy’s intensive full-stack web developer course.
+Recently started a new client project with NextJS and TypeScript.
 
-My highest priority is to work in a supportive environment which embraces coding best practices that will strengthen and extend my knowledge, helping me reach my goal of becoming a professional programmer.
- 
-I have ten years of work experience in non-tech front and back-office roles including as a freelance digital artist, and recently freelance web design and development, providing me with valuable soft and hard transferable skills.
+Joined as an Associate Software Engineer, mainly using JavaScript, ReactJS, Google Cloud Platform, and Python for scripting.
 
-I am now even more excited by programming and its seemingly endless creative possibilities and aim to expand my full-stack and back-end development knowledge.
+Build numerous features for our client app, from receipt of design to implementing React Components and UI (HTML/CSS) to data population implementation using Components, Hooks, and Stores, whilst using client and Google Cloud APIs, through to testing including unit (React Testing Library/Jest) and frontend testing (Cypress).
+
+Build, test, and maintain features for multinational clients using Agile methodology with the Development, QA, and Design Teams ahead of Sprint goals on a consistent basis.
 
 
 ## Projects
