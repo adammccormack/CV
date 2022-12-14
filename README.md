@@ -26,6 +26,7 @@ Build, test, and maintain features for multinational clients using Agile methodo
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **Ancoris Client Projects**(Private repo) | Build, test, and maintain features for multinational clients using Agile methodology with the Development, QA, and Design Teams ahead of Sprint goals on a consistent basis. | JavaScript/TypeScript, ReactJS, NextJS, Google Cloud Platform (GCP), Python |
 | **Maltx**(Private repo)   | University of Oxford PhD student app to help them automate processing of differing public government data  | Ruby, Rails, Rspec, Roo, Smarter_CSV, Codecov, Javascript, HTML/CSS, Bulma CSS, PostgreSQL, GCS, Git, Jira |
 | [**Chatter**](https://github.com/alldigits/chatter)  | Building a full-stack MVC version of Twitter to deepen my knowledge of building web apps. | Ruby, Rails, Rspec, Capybara, CodeCov, Byebug, Javascript, HTML/CSS, Bulma CSS, PostgreSQL              |
 | [**Shuttr**](https://github.com/alldigits/shuttr) | A MERN photography app that helps users find the best locations in any city | MongoDB, Express, React, Node.js, HTML/CSS, APIs (Google Maps,Mapbook,React Map GL,Cloudinary,Unsplash), Material-Ui, Passport.js, BCrypt, Yarn |
