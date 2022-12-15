@@ -40,7 +40,7 @@ Build, test, and maintain features for multinational clients using Agile methodo
 **Ancoris (Google Partner IT Consultancy)** - Jul 22 to Present
 
 - Recently started a new client project with NextJS and TypeScript.
-- Joined as an Associate Software Engineer, mainly using JavaScript, ReactJS, Google Cloud Platform, and Python for scripting.
+- Joined as an Associate Software Engineer, mainly using JavaScript, ReactJS, NodeJS, Google Cloud Platform, and Python for scripting.
 - Build numerous features for our client app, from receipt of design to implementing React Components and UI (HTML/CSS) to data population implementation using Components, Hooks, and Stores, whilst using client and Google Cloud APIs, through to testing including unit (React Testing Library/Jest) and frontend testing (Cypress).
 - Build, test, and maintain features for multinational clients using Agile methodology with the Development, QA, and Design Teams ahead of Sprint goals on a consistent basis.
 
