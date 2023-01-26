@@ -39,9 +39,9 @@ I am continually excited by programming and its seemingly endless creative possi
 ### **Associate Software Engineer** ###
 **Ancoris (Google Partner IT Consultancy)** - Jul 22 to Present
 
-- Crafted features for multinational clients using TypeScript/JavaScript, NextJS/ReactJS, and Google Cloud Platform using Agile methodologies with the Development, QA, and Design Teams.
-- Developed, tested, and deployed numerous features including implementation of UI(HTML/CSS), data population with React Components, Hooks, and Stores(Mobx) using client APIs.
-- Tested and maintained products using unit testing(React Testing Library/Jest) and frontend testing (Cypress).
+-Crafted features for multinational clients using TypeScript/JavaScript, NextJS/ReactJS, and Google Cloud Platform utilising Agile methodologies with the Development, QA, and Design Teams.
+-Developed, tested, and deployed numerous features including implementation of UI(HTML/CSS), data population with React Components, Hooks, and Stores(Mobx) using client APIs.
+-Tested and maintained products utilising unit testing(React Testing Library/Jest) and frontend testing (Cypress).
 
 ### **Full Stack Software Engineer** ###
 **University of Oxford PhD Client (Freelance)** - Nov 21 to Dec 21
@@ -52,8 +52,6 @@ I am continually excited by programming and its seemingly endless creative possi
 - Created service object layers for data ingestion with Ruby gems such as roo and smarter_csv for parsing and manipulating excel and csv data.
 - Created unit tests for critical application components in Rspec.
 - Use of byebug gem for debugging and proving code.
-- Story point estimation using Doubling method.
-- Regular standups, sprints and retrospectives.
 
 
 ### **Web Designer** ###
