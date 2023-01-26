@@ -13,7 +13,7 @@
 [Contact](#Contact) 
 <a name="Contact"></a> |
 
-I am hugely passionate about developing professional, clean, tested, and reusable code, currently working as a Software Engineer developing new products and features for multinational clients.
+I am hugely passionate about developing professional, clean, tested, reusable code, and working on developing and improving products.
 
 My highest priority is to work in a supportive environment that embraces coding best practices that will strengthen and extend my knowledge, helping me reach my goal of becoming an expert in my field.
  
