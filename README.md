@@ -39,10 +39,9 @@ I am continually excited by programming and its seemingly endless creative possi
 ### **Associate Software Engineer** ###
 **Ancoris (Google Partner IT Consultancy)** - Jul 22 to Present
 
-- Recently started a new client project with NextJS and TypeScript.
-- Joined as an Associate Software Engineer, mainly using JavaScript, ReactJS, NodeJS, Google Cloud Platform, and Python for scripting.
-- Build numerous features for our client app, from receipt of design to implementing React Components and UI (HTML/CSS) to data population implementation using Components, Hooks, and Stores, whilst using client and Google Cloud APIs, through to testing including unit (React Testing Library/Jest) and frontend testing (Cypress).
-- Build, test, and maintain features for multinational clients using Agile methodology with the Development, QA, and Design Teams ahead of Sprint goals on a consistent basis.
+- Crafted features for multinational clients using TypeScript/JavaScript, NextJS/ReactJS, and Google Cloud Platform using Agile methodologies with the Development, QA, and Design Teams.
+- Developed, tested, and deployed numerous features including implementation of UI (HTML/CSS), data population with React Components, Hooks, and Stores(Mobx) using client APIs.
+- Tested and maintained products using unit testing(React Testing Library/Jest) and frontend testing (Cypress).
 
 ### **Full Stack Software Engineer** ###
 **University of Oxford PhD Client (Freelance)** - Nov 21 to Dec 21
