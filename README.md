@@ -39,7 +39,7 @@ I am continually excited by programming and its seemingly endless creative possi
 ### **Associate Software Engineer** ###
 **Ancoris (Google Partner IT Consultancy)** - Jul 22 to Present
 
--Crafted features for multinational clients using TypeScript/JavaScript, NextJS/ReactJS, and Google Cloud Platform utilising Agile methodologies with the Development, QA, and Design Teams.
+-Crafted features for multinational clients using TypeScript/JavaScript, NextJS/ReactJS, Strapi CMS, PostgreSQL and Google Cloud Platform utilising Agile methodologies with the Development, QA, and Design Teams.
 -Developed, tested, and deployed numerous features including implementation of UI(HTML/CSS), data population with React Components, Hooks, and Stores(Mobx) using client APIs.
 -Tested and maintained products utilising unit testing(React Testing Library/Jest) and frontend testing (Cypress).
 
